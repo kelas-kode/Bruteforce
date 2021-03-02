@@ -2,7 +2,7 @@
 Bruteforce password
 
 <p align="center">
-  <img src="https://github.com/kelas-kode/kelas-kode/blob/main/pc.gif" height="200" width="450"/>
+  <img src="https://github.com/kelas-kode/Bruteforce/blob/main/images.jpg" height="200" width="450"/>
 </p>
 
 # Info
