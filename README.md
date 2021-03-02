@@ -7,7 +7,7 @@ Bruteforce password
 
 # Info
 <p>
-Brute Force adalah teknik untuk mencari sebuah password password, dengan cara mencoba semua kemungkinan kombinasi password yang ada pada wordlist atau “kamus password”. Metode ini dijamin akan berhasil menemukan password yang ingin dicari. Namun proses mencari password menggunakan metode ini akan memakan banyak waktu. 
+Brute Force adalah teknik untuk mencari sebuah password, dengan cara mencoba semua kemungkinan kombinasi password yang ada pada wordlist atau “kamus password”. Metode ini dijamin akan berhasil menemukan password yang ingin dicari. Namun proses mencari password menggunakan metode ini akan memakan banyak waktu. 
 </p>
 
 
